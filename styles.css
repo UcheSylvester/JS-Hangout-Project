@@ -1,0 +1,32 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+
+form,
+#weather-container {
+  margin-top: 3em;
+}
+
+h1 {
+  margin: 0;
+  background-color: rgb(7, 6, 6);
+  color: white;
+  padding: 0.5em;
+}
+
+input {
+  padding: 0.5em;
+  width: 50%;
+  border-radius: 5px;
+  border: solid 2px rgb(78, 74, 74);
+}
+
+button {
+  padding: 0.5em;
+  border-radius: 5px;
+}
